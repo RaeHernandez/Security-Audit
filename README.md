@@ -28,7 +28,7 @@ This portfolio project, part of the Google Cybersecurity Professional Certificat
 
 ## Files in Repo
 - `BotiumPosture.docx` – IT manager’s notes and posture documentation  
-- `Controls_and_Compliance_Checklist.docx` – checklist of controls and compliance status with recommendations  
+- `Controls_and_Compliance_Checklist.pdf` – checklist of controls and compliance status with recommendations  
 - `README.md` – project documentation
 
 ## Reflection
